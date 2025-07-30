@@ -1,4 +1,5 @@
 # CJ's Super Sky - Basic Version
+<img width="1410" height="128" alt="image" src="https://github.com/user-attachments/assets/9af13fea-63fb-4d8d-848a-88cfaf06a93b" />
 
  Put the plugin into YourProjectFolder/Plugins.
  You can find the Sky Blueprint in Plugins/CJsSuperSky
